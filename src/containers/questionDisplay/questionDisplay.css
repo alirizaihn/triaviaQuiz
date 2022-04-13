@@ -1,0 +1,17 @@
+.custom-card{
+  position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0px;
+    overflow-wrap: break-word;
+    background-clip: border-box;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgba(34, 41, 47, 0.125);
+    border-image: initial;
+    background-color: rgb(40, 48, 70);
+    box-shadow: rgba(34, 41, 47, 0.1) 0px 4px 24px 0px;
+    border-radius:10px;
+    align-items: center;
+ 
+}
